@@ -1,4 +1,4 @@
-# AI Devs Engine - Social Dev Monetizer
+# Terra Devs Engine - Social Dev Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
