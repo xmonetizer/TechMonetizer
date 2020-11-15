@@ -1,6 +1,6 @@
 <template>
   <div id="welcome">
-    <h1>Team clone @ AI speed</h1>
+    <h1>functions @ AI speed</h1>
     <p><span class="red-text">script</span> >> <span class="yellow-text">monetize</span> >> <span class="blue-text">repeat</span> 24/7 - 3rd generation DNA OS</p>
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
