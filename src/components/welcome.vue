@@ -1,7 +1,7 @@
 <template>
   <div id="welcome">
-    <h1>Research @ AI speed</h1>
-    <p><span class="red-text">develop</span> >> <span class="yellow-text">monetize</span> >> <span class="blue-text">repeat</span> 24/7 - 3rd gen DNA OS</p>
+    <h1>Solutions @ AI speed</h1>
+    <p><span class="red-text">solve</span> >> <span class="yellow-text">monetize</span> >> <span class="blue-text">repeat</span> 24/7 - 3rd gen DNA OS</p>
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
       <router-link to="/signin">Sign In</router-link>
