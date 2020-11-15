@@ -1,4 +1,4 @@
-# Ai Lambda Engine - Dev & Play Monetizer
+# Ai Lambda Engine - Social Dev Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
