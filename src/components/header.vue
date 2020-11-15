@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Ai Cloner</router-link>
+      <router-link to="/">iLambda</router-link>
     </div>
     <nav>
       <ul>

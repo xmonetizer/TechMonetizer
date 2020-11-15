@@ -1,4 +1,4 @@
-# Ai Cloner Engine - Dev & Play Monetizer
+# Ai Lambda Engine - Dev & Play Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
