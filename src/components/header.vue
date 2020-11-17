@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Solver AI</router-link>
+      <router-link to="/">Devs OS</router-link>
     </div>
     <nav>
       <ul>

@@ -1,4 +1,4 @@
-# Solver Engine - Social Dev Monetizer
+# Devs OS Engine - Social Dev Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
