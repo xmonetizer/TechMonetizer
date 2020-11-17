@@ -1,4 +1,4 @@
-# Devs OS Engine - Social Dev Monetizer
+# Social Judge Engine - Social Decision Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
