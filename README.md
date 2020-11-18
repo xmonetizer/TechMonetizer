@@ -1,4 +1,4 @@
-# Product Management Engine - Social Decision Monetizer
+# Repo Combinator Engine - Social Dev Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
