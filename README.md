@@ -1,4 +1,4 @@
-# Social Cofounding Engine - Social Decision Monetizer
+# Product Management Engine - Social Decision Monetizer
 
 collaboration engine / social monetization protocol - PoC
 

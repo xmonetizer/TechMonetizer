@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Cofound OS</router-link>
+      <router-link to="/">TechPM OS</router-link>
     </div>
     <nav>
       <ul>
