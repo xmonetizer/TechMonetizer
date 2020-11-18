@@ -1,4 +1,4 @@
-# Social Judge Engine - Social Decision Monetizer
+# Social Cofounding Engine - Social Decision Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
