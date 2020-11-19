@@ -1,6 +1,9 @@
 # Repo Combinator Engine - Social Dev Monetizer
 
 collaboration engine / social monetization protocol - PoC
+https://repoCombinator.web.app/
+https://myCombinator.web.app/
+https://CombineOS.web.app/
 
 ![Web colab PoC](ai-colab-engine-PoC-animated.gif)
 
