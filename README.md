@@ -9,7 +9,8 @@ collaboration engine / social monetization protocol - PoC
 [My Combinator](https://myCombinator.web.app/) |
 [Combine OS](https://CombineOS.web.app/) |
 [Architect OS](https://ArchitectOS.web.app/) |
-[TechPM OS](https://TechPMOS.web.app/)
+[TechPM OS](https://TechPMOS.web.app/) |
+[Ai Gateway](https://aigateway.web.app/)
 
 ![Web colab PoC](ai-colab-engine-PoC-animated.gif)
 
