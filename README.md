@@ -7,7 +7,7 @@ collaboration engine / social monetization protocol - PoC
 [Innovation OS](https://InnovationOS.web.app/) |
 [Repo Combinator](https://repoCombinator.web.app/) |
 [My Combinator](https://myCombinator.web.app/) |
-[Combine OS](https://CombineOS.web.app/) |
+[AI Lambda](https://ailambda.web.app/) |
 [Architect OS](https://ArchitectOS.web.app/) |
 [TechPM OS](https://TechPMOS.web.app/) |
 [Ai Gateway](https://aigateway.web.app/)
