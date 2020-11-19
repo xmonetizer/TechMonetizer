@@ -4,9 +4,9 @@ collaboration engine / social monetization protocol - PoC
 
 ## Branches:
 
-[Innovation OS](https://InnovationOS.web.app/)
-[Repo Combinator](https://repoCombinator.web.app/)
-[My Combinator](https://myCombinator.web.app/)
+[Innovation OS](https://InnovationOS.web.app/) |
+[Repo Combinator](https://repoCombinator.web.app/) |
+[My Combinator](https://myCombinator.web.app/) |
 [Combine OS](https://CombineOS.web.app/)
 
 ![Web colab PoC](ai-colab-engine-PoC-animated.gif)
