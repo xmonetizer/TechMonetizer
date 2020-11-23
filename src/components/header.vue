@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">Innovation OS</router-link>
+      <router-link to="/">Migrations PM</router-link>
     </div>
     <nav>
       <ul>
