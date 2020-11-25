@@ -11,8 +11,8 @@
       <a href="https://MigrationsPM.web.app/" title="Migrations PM web app"> migration </a>
       <a href="https://EngineXL.web.app/" title="Engine XL web app"> engine </a>
       </p>
-    <h1>engines @ AI speed</h1>
-    <p><span class="red-text">develop</span> > <span class="yellow-text">monetize</span> > <span class="blue-text">repeat</span> 24/7 - 3rd gen DNA OS</p>
+    <h1>socials @ AI speed</h1>
+    <p><span class="red-text">socialize</span> > <span class="yellow-text">develop</span> > <span class="blue-text">monetize</span> 24/7 - 3rd gen DNA OS</p>
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
       <router-link to="/signin">Sign In</router-link>

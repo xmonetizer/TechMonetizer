@@ -1,4 +1,4 @@
-# Meta Engine - Federated Cloud Services
+# Meta Social Engine - Federated Cloud Services
 
 collaboration engine / social monetization protocol - PoC
 
