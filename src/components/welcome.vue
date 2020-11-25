@@ -1,6 +1,7 @@
 <template>
   <div id="welcome">
-    <p>meta social cloud uber xl js rDNA migration engine </p>
+    <p>
+      <a href="https://metaengine.web.app/" title="meta engine web app"> meta </a> social cloud uber xl js rDNA migration engine </p>
     <h1>engines @ AI speed</h1>
     <p><span class="red-text">develop</span> > <span class="yellow-text">monetize</span> > <span class="blue-text">repeat</span> 24/7 - 3rd gen DNA OS</p>
     <div class="cta">
