@@ -1,4 +1,4 @@
-# Cloud Migration Process Manager
+# Meta Engine - Federated Cloud Services
 
 collaboration engine / social monetization protocol - PoC
 
