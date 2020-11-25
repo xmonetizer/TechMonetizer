@@ -1,7 +1,8 @@
 <template>
   <div id="welcome">
     <p>
-      <a href="https://MetaEngine.web.app/" title="meta engine web app"> meta </a> social cloud terra 
+      <a href="https://MetaEngine.web.app/" title="meta engine web app"> meta </a> social cloud 
+      <a href="https://TerraDevs.web.app/" title="Terra Devs web app"> terra </a>
       <a href="https://XLrDNA.web.app/" title="xl rDNA web app"> xl </a>
       <a href="https://JSrDNA.web.app/" title="js rDNA web app"> js </a>
       <a href="https://DevEngineXL.web.app/" title="dev engine web app"> devops </a>
