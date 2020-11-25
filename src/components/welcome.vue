@@ -1,13 +1,14 @@
 <template>
   <div id="welcome">
     <p>
-      <a href="https://MetaEngine.web.app/" title="meta engine web app"> meta </a> social cloud 
+      <a href="https://MetaEngine.web.app/" title="Meta Engine web app"> meta </a> social
+      <a href="https://CloudEngineXL.web.app/" title="Cloud Engine web app"> cloud </a>
       <a href="https://TerraDevs.web.app/" title="Terra Devs web app"> terra </a>
       <a href="https://XLrDNA.web.app/" title="xl rDNA web app"> xl </a>
       <a href="https://JSrDNA.web.app/" title="js rDNA web app"> js </a>
-      <a href="https://DevEngineXL.web.app/" title="dev engine web app"> devops </a>
-      <a href="https://MigrationsPM.web.app/" title="migrations pm web app"> migration </a>
-      <a href="https://EngineXL.web.app/" title="engine xl web app"> engine </a>
+      <a href="https://DevEngineXL.web.app/" title="Dev Engine web app"> devops </a>
+      <a href="https://MigrationsPM.web.app/" title="Migrations PM web app"> migration </a>
+      <a href="https://EngineXL.web.app/" title="Engine XL web app"> engine </a>
       </p>
     <h1>engines @ AI speed</h1>
     <p><span class="red-text">develop</span> > <span class="yellow-text">monetize</span> > <span class="blue-text">repeat</span> 24/7 - 3rd gen DNA OS</p>
