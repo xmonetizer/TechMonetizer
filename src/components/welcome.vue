@@ -1,12 +1,13 @@
 <template>
   <div id="welcome">
     <p>
-      <a href="https://MetaEngine.web.app/" title="Meta Engine web app"> meta </a> social
-      <a href="https://CloudEngineXL.web.app/" title="Cloud Engine web app"> cloud </a>
+      <a href="https://MetaEngine.web.app/" title="Meta Engine web app"> meta </a> 
+      <a href="https://SocialsXL.web.app/" title="Social Engine web app"> social </a>
       <a href="https://TerraDevs.web.app/" title="Terra Devs web app"> terra </a>
       <a href="https://XLrDNA.web.app/" title="xl rDNA web app"> xl </a>
       <a href="https://JSrDNA.web.app/" title="js rDNA web app"> js </a>
       <a href="https://DevEngineXL.web.app/" title="Dev Engine web app"> devops </a>
+      <a href="https://CloudEngineXL.web.app/" title="Cloud Engine web app"> cloud </a>
       <a href="https://MigrationsPM.web.app/" title="Migrations PM web app"> migration </a>
       <a href="https://EngineXL.web.app/" title="Engine XL web app"> engine </a>
       </p>
