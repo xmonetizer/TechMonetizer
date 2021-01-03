@@ -1,4 +1,4 @@
-# Social Interests Monetizer
+# Teams Interests Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
