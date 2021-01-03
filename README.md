@@ -1,4 +1,4 @@
-# Meta Social Engine - Federated Cloud Services
+# Social Interests Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
