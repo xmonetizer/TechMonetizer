@@ -12,7 +12,7 @@
       <a href="https://EngineXL.web.app/" title="Engine XL web app"> engine </a>
       </p>
     <h1>monetize @ AI speed</h1>
-    <p><span class="red-text">socialize</span> > <span class="yellow-text">automate</span> > <span class="blue-text">monetize</span> 24/7 - 3rd gen DNA OS</p>
+    <p><span class="red-text">socialize</span> > <span class="yellow-text">develop</span> > <span class="blue-text">monetize</span> 24/7 - 3rd gen DNA OS</p>
     <div class="cta">
       <router-link to="/signup">Sign Up</router-link>
       <router-link to="/signin">Sign In</router-link>
