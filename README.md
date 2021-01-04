@@ -1,4 +1,4 @@
-# Team Monetizer Web App
+# xMonetizer Web App
 
 collaboration engine / social monetization protocol - PoC
 
