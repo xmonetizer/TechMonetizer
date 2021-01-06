@@ -1,4 +1,4 @@
-# dev Monetizer Web App
+# Tech Monetizer Web App
 
 natural collaboration engine / social monetization protocol - PoC
 
