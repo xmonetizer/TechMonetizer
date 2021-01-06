@@ -1,16 +1,16 @@
 # dev Monetizer Web App
 
-collaboration engine / social monetization protocol - PoC
+natural collaboration engine / social monetization protocol - PoC
 
 ## Branches:
 
-[Team Monetizer](https://TeamMonetizer.web.app/) |
-[Social Monetizer](https://SIMonetizer.web.app/) |
-[Terra Monetizer](https://TerraMonetizer.web.app/) |
-[Dev Monetizer](https://DevMonetizer.web.app/) |
-[W3 Monetizer](https://w3Monetizer.web.app/) |
-[Tech Monetizer](https://TechMonetizer.web.app/) |
-[Ai Gateway](https://aigateway.web.app/)
+[TeamMonetizer](https://TeamMonetizer.web.app/) |
+[SocialMonetizer](https://SIMonetizer.web.app/) |
+[TerraMonetizer](https://TerraMonetizer.web.app/) |
+[DevMonetizer](https://DevMonetizer.web.app/) |
+[W3Monetizer](https://w3Monetizer.web.app/) |
+[TechMonetizer](https://TechMonetizer.web.app/) |
+[AiGateway](https://aigateway.web.app/)
 
 ![Web colab PoC](ai-colab-engine-PoC-animated.gif)
 
