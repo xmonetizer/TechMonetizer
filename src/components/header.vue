@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="logo">
-      <router-link to="/">xMonetizer</router-link>
+      <router-link to="/">w3 Monetizer</router-link>
     </div>
     <nav>
       <ul>

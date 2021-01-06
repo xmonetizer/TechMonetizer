@@ -1,4 +1,4 @@
-# xMonetizer Web App
+# w3Monetizer Web App
 
 collaboration engine / social monetization protocol - PoC
 
