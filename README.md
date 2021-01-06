@@ -1,15 +1,15 @@
-# w3Monetizer Web App
+# dev Monetizer Web App
 
 collaboration engine / social monetization protocol - PoC
 
 ## Branches:
 
-[Innovation OS](https://InnovationOS.web.app/) |
-[Repo Combinator](https://repoCombinator.web.app/) |
-[My Combinator](https://myCombinator.web.app/) |
-[AI Lambda](https://ailambda.web.app/) |
-[Architect OS](https://ArchitectOS.web.app/) |
-[TechPM OS](https://TechPMOS.web.app/) |
+[Team Monetizer](https://TeamMonetizer.web.app/) |
+[Social Monetizer](https://SIMonetizer.web.app/) |
+[Terra Monetizer](https://TerraMonetizer.web.app/) |
+[Dev Monetizer](https://DevMonetizer.web.app/) |
+[W3 Monetizer](https://w3Monetizer.web.app/) |
+[Tech Monetizer](https://TechMonetizer.web.app/) |
 [Ai Gateway](https://aigateway.web.app/)
 
 ![Web colab PoC](ai-colab-engine-PoC-animated.gif)

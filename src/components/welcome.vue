@@ -5,9 +5,9 @@
       <a href="https://SIMonetizer.web.app/" title="Social Interests Monetizer"> social </a>
       <a href="https://TerraMonetizer.web.app/" title="Terra Interests Monetizer"> terra </a>
       <a href="https://devMonetizer.web.app/" title="Devs Interests Monetizer"> dev </a>
-      <a href="https://w3Monetizer.web.app/" title="js rDNA web app"> web </a>
-      <a href="https://DevEngineXL.web.app/" title="Dev Engine web app"> office </a>
-      <a href="https://CloudEngineXL.web.app/" title="Cloud Engine web app"> cloud </a>
+      <a href="https://w3Monetizer.web.app/" title="W3 Monetizer"> web </a>
+      <a href="https://DevEngineXL.web.app/" title="DevOps XL Engine"> office </a>
+      <a href="https://TechMonetizer.web.app/" title="Cloud Monetizer"> cloud </a>
       <a href="https://TimeMonetizer.web.app/" title="Time Monetizer"> monetizer </a>
       <a href="https://SprintMonetizer.web.app/" title="Sprint Monetizer"> engine </a>
       </p>
