@@ -7,7 +7,7 @@
       <a href="https://devMonetizer.web.app/" title="Devs Interests Monetizer"> dev </a>
       <a href="https://w3Monetizer.web.app/" title="W3 Monetizer"> web </a>
       <a href="https://DevEngineXL.web.app/" title="DevOps XL Engine"> office </a>
-      <a href="https://TechMonetizer.web.app/" title="Cloud Monetizer"> cloud </a>
+      <a href="https://TechMonetizer.web.app/" title="Tech Monetizer"> cloud </a>
       <a href="https://TimeMonetizer.web.app/" title="Time Monetizer"> monetizer </a>
       <a href="https://SprintMonetizer.web.app/" title="Sprint Monetizer"> engine </a>
       </p>
